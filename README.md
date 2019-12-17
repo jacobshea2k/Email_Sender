@@ -1,1 +1,1 @@
-# This program allows you to send an email with an image through an already active gmail account. 
+# This program sends an email with an image through an already active gmail account. 
